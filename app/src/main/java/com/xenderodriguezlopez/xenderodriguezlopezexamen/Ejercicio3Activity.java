@@ -71,6 +71,5 @@ public class Ejercicio3Activity extends AppCompatActivity implements SensorEvent
 
     @Override
     public void onAccuracyChanged(Sensor sensor, int accuracy) {
-        // No es necesario manejar cambios de precisión para este ejercicio
     }
 }
