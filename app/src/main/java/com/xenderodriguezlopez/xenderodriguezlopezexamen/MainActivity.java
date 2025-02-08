@@ -35,5 +35,6 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(MainActivity.this, Ejercicio3Activity.class);
             startActivity(intent);
         });
+
     }
 }
